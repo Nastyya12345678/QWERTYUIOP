@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color:pink ;
+    padding: 10px;
+}
+header a{
+    background-color: white; 
+    padding:5px;
+    border-radius: 5mm;
+}
+main h1{
+    background-color: olive;
+    color: white;
+    text-align: center;
+}
+footer {
+    background-color: pink;
+    padding: 5px;
+}
+p{
+    background-color: white;
+}
+nav a{
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    border: 3px solid navy;
+    border-radius:10px ;
+    background-color: navy;
+}
+.uu{
+    background-color: white;
+    color: royalblue;
+}
+.bb{
+    background-color: brown;
+    border-radius: 5mm;
+    padding: 5px;
+}
+.jj{
+    color: blue;
+}
